@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jerry Blog</title>
+    <link>https://jerry0420.github.io/</link>
+    <description>Recent content on Jerry Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    
+	<atom:link href="https://jerry0420.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post01</title>
+      <link>https://jerry0420.github.io/post01/</link>
+      <pubDate>Fri, 26 Jun 2020 16:01:14 +0800</pubDate>
+      
+      <guid>https://jerry0420.github.io/post01/</guid>
+      <description>你好</description>
+    </item>
+    
+  </channel>
+</rss>

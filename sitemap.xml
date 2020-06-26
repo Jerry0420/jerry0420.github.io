@@ -3,16 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jerry0420.github.io/post01/</loc>
+    <loc>https://jerry0420.github.io/</loc>
+    <lastmod>2020-06-26T16:34:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jerry0420.github.io/posts/my-first-file/</loc>
+    <lastmod>2020-06-26T16:34:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jerry0420.github.io/posts/</loc>
+    <lastmod>2020-06-26T16:34:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jerry0420.github.io/posts/post01/</loc>
     <lastmod>2020-06-26T16:01:14+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://jerry0420.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jerry0420.github.io/</loc>
   </url>
   
   <url>

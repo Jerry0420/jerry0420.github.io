@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Jerry Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 26 Jun 2020 16:34:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2020 16:56:47 +0800</lastBuildDate>
     
 	<atom:link href="https://jerry0420.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Second</title>
+      <link>https://jerry0420.github.io/posts/second/</link>
+      <pubDate>Fri, 26 Jun 2020 16:56:47 +0800</pubDate>
+      
+      <guid>https://jerry0420.github.io/posts/second/</guid>
+      <description>hahahahaha</description>
+    </item>
     
     <item>
       <title>My First File</title>

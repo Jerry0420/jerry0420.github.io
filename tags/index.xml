@@ -1,130 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Huabing Blog</title>
+    <title>Tags on Hugo Future Imperfect Slim</title>
     <link>https://jerry0420.github.io/tags/</link>
-    <description>Recent content in Tags on Huabing Blog</description>
+    <description>Recent content in Tags on Hugo Future Imperfect Slim</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jerry0420.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Istio</title>
-      <link>https://jerry0420.github.io/tags/istio/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      <title>css</title>
+      <link>https://jerry0420.github.io/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jerry0420.github.io/tags/istio/</guid>
+      <guid>https://jerry0420.github.io/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ubuntu</title>
-      <link>https://jerry0420.github.io/tags/ubuntu/</link>
-      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      <title>html</title>
+      <link>https://jerry0420.github.io/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jerry0420.github.io/tags/ubuntu/</guid>
+      <guid>https://jerry0420.github.io/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Microservice</title>
-      <link>https://jerry0420.github.io/tags/microservice/</link>
-      <pubDate>Wed, 23 May 2018 18:00:00 +0000</pubDate>
+      <title>markdown</title>
+      <link>https://jerry0420.github.io/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jerry0420.github.io/tags/microservice/</guid>
+      <guid>https://jerry0420.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Security</title>
-      <link>https://jerry0420.github.io/tags/security/</link>
-      <pubDate>Wed, 23 May 2018 18:00:00 +0000</pubDate>
+      <title>themes</title>
+      <link>https://jerry0420.github.io/tags/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jerry0420.github.io/tags/security/</guid>
+      <guid>https://jerry0420.github.io/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Kubernetes</title>
-      <link>https://jerry0420.github.io/tags/kubernetes/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      <title>privacy</title>
+      <link>https://jerry0420.github.io/tags/privacy/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jerry0420.github.io/tags/kubernetes/</guid>
+      <guid>https://jerry0420.github.io/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Travel</title>
-      <link>https://jerry0420.github.io/tags/travel/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <title>shortcodes</title>
+      <link>https://jerry0420.github.io/tags/shortcodes/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jerry0420.github.io/tags/travel/</guid>
+      <guid>https://jerry0420.github.io/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Helm</title>
-      <link>https://jerry0420.github.io/tags/helm/</link>
-      <pubDate>Mon, 16 Apr 2018 15:00:00 +0000</pubDate>
+      <title>text</title>
+      <link>https://jerry0420.github.io/tags/text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jerry0420.github.io/tags/helm/</guid>
+      <guid>https://jerry0420.github.io/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>API Gateway</title>
-      <link>https://jerry0420.github.io/tags/api-gateway/</link>
-      <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
+      <title>emoji</title>
+      <link>https://jerry0420.github.io/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jerry0420.github.io/tags/api-gateway/</guid>
+      <guid>https://jerry0420.github.io/tags/emoji/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>service Mesh</title>
-      <link>https://jerry0420.github.io/tags/service-mesh/</link>
-      <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
+      <title>index</title>
+      <link>https://jerry0420.github.io/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jerry0420.github.io/tags/service-mesh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Docker</title>
-      <link>https://jerry0420.github.io/tags/docker/</link>
-      <pubDate>Tue, 13 Mar 2018 18:00:00 +0000</pubDate>
-      
-      <guid>https://jerry0420.github.io/tags/docker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tips</title>
-      <link>https://jerry0420.github.io/tags/tips/</link>
-      <pubDate>Tue, 13 Mar 2018 18:00:00 +0000</pubDate>
-      
-      <guid>https://jerry0420.github.io/tags/tips/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vim</title>
-      <link>https://jerry0420.github.io/tags/vim/</link>
-      <pubDate>Fri, 09 Feb 2018 11:00:00 +0000</pubDate>
-      
-      <guid>https://jerry0420.github.io/tags/vim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nginmesh</title>
-      <link>https://jerry0420.github.io/tags/nginmesh/</link>
-      <pubDate>Tue, 02 Jan 2018 12:00:00 +0000</pubDate>
-      
-      <guid>https://jerry0420.github.io/tags/nginmesh/</guid>
+      <guid>https://jerry0420.github.io/tags/index/</guid>
       <description></description>
     </item>
     

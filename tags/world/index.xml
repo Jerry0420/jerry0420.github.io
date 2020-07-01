@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>world on Hugo Future Imperfect Slim</title>
+    <title>world on Jerry Blog</title>
     <link>https://jerry0420.github.io/tags/world/</link>
-    <description>Recent content in world on Hugo Future Imperfect Slim</description>
+    <description>Recent content in world on Jerry Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jerry0420.github.io/tags/world/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>testtest2</title>
-      <link>https://jerry0420.github.io/blog/test2/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jerry0420.github.io/blog/test2/</guid>
-      <description>&lt;p&gt;你好hahahaHugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>testtest3</title>

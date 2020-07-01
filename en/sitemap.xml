@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://jerry0420.github.io/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -53,38 +53,13 @@
   </url>
   
   <url>
-    <loc>https://jerry0420.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jerry0420.github.io/fr/tags/css/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jerry0420.github.io/tags/css/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://jerry0420.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jerry0420.github.io/fr/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jerry0420.github.io/tags/html/"
-                />
+    <loc>https://jerry0420.github.io/tags/hello/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jerry0420.github.io/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -133,38 +108,13 @@
   </url>
   
   <url>
-    <loc>https://jerry0420.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jerry0420.github.io/fr/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jerry0420.github.io/tags/markdown/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://jerry0420.github.io/blog/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jerry0420.github.io/fr/blog/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jerry0420.github.io/blog/markdown-syntax/"
-                />
+    <loc>https://jerry0420.github.io/categories/kerker/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jerry0420.github.io/blog/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -178,23 +128,8 @@
   </url>
   
   <url>
-    <loc>https://jerry0420.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jerry0420.github.io/fr/categories/syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jerry0420.github.io/categories/syntax/"
-                />
-  </url>
-  
-  <url>
     <loc>https://jerry0420.github.io/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -239,6 +174,96 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://jerry0420.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://jerry0420.github.io/blog/test2/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jerry0420.github.io/blog/test3/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jerry0420.github.io/tags/world/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jerry0420.github.io/tags/css/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jerry0420.github.io/fr/tags/css/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jerry0420.github.io/tags/css/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://jerry0420.github.io/tags/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jerry0420.github.io/fr/tags/html/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jerry0420.github.io/tags/html/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://jerry0420.github.io/tags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jerry0420.github.io/fr/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jerry0420.github.io/tags/markdown/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://jerry0420.github.io/blog/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jerry0420.github.io/fr/blog/markdown-syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jerry0420.github.io/blog/markdown-syntax/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://jerry0420.github.io/categories/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jerry0420.github.io/fr/categories/syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jerry0420.github.io/categories/syntax/"
                 />
   </url>
   

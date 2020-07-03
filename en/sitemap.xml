@@ -115,16 +115,6 @@
   <url>
     <loc>https://jerry0420.github.io/blog/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jerry0420.github.io/fr/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jerry0420.github.io/blog/"
-                />
   </url>
   
   <url>
@@ -195,151 +185,51 @@
   <url>
     <loc>https://jerry0420.github.io/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jerry0420.github.io/fr/tags/css/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jerry0420.github.io/tags/css/"
-                />
   </url>
   
   <url>
     <loc>https://jerry0420.github.io/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jerry0420.github.io/fr/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jerry0420.github.io/tags/html/"
-                />
   </url>
   
   <url>
     <loc>https://jerry0420.github.io/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jerry0420.github.io/fr/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jerry0420.github.io/tags/markdown/"
-                />
   </url>
   
   <url>
     <loc>https://jerry0420.github.io/blog/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jerry0420.github.io/fr/blog/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jerry0420.github.io/blog/markdown-syntax/"
-                />
   </url>
   
   <url>
     <loc>https://jerry0420.github.io/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jerry0420.github.io/fr/categories/syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jerry0420.github.io/categories/syntax/"
-                />
   </url>
   
   <url>
     <loc>https://jerry0420.github.io/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jerry0420.github.io/fr/tags/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jerry0420.github.io/tags/themes/"
-                />
   </url>
   
   <url>
     <loc>https://jerry0420.github.io/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jerry0420.github.io/fr/categories/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jerry0420.github.io/categories/themes/"
-                />
   </url>
   
   <url>
     <loc>https://jerry0420.github.io/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jerry0420.github.io/fr/tags/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jerry0420.github.io/tags/privacy/"
-                />
   </url>
   
   <url>
     <loc>https://jerry0420.github.io/blog/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jerry0420.github.io/fr/blog/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jerry0420.github.io/blog/rich-content/"
-                />
   </url>
   
   <url>
     <loc>https://jerry0420.github.io/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jerry0420.github.io/fr/tags/shortcodes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jerry0420.github.io/tags/shortcodes/"
-                />
   </url>
   
   <url>
@@ -355,70 +245,20 @@
   <url>
     <loc>https://jerry0420.github.io/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jerry0420.github.io/fr/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jerry0420.github.io/tags/emoji/"
-                />
   </url>
   
   <url>
     <loc>https://jerry0420.github.io/blog/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jerry0420.github.io/fr/blog/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jerry0420.github.io/blog/emoji-support/"
-                />
   </url>
   
   <url>
     <loc>https://jerry0420.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://jerry0420.github.io/pl/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jerry0420.github.io/fr/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://jerry0420.github.io/pt/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jerry0420.github.io/about/"
-                />
   </url>
   
   <url>
     <loc>https://jerry0420.github.io/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jerry0420.github.io/fr/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jerry0420.github.io/contact/"
-                />
   </url>
   
   <url>
